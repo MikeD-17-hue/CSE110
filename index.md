@@ -17,9 +17,9 @@ This is the link to my [GitHub Pages](https://miked-source.github.io/CSE110/)
 ## Skills
 * C++
 * Java
-*Python
-*The frame work I most familiar with: ![Angular](./angular.jpg)
-*Some experiences with Node.js, some simple staff:
+* Python
+* The frame work I most familiar with: ![Angular](./angular.jpg)
+* Some experiences with Node.js, some simple staff:
 ```
 var http = require('http');
 http.createServer(function (req, res) {
